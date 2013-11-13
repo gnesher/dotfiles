@@ -1,0 +1,42 @@
+[submodule "ack.vim"]
+    path = .vim/bundle/ack.vim
+    url = https://github.com/mileszs/ack.vim.git
+
+[submodule "nerdtree"]
+    path = .vim/bundle/nerdtree
+    url = https://github.com/scrooloose/nerdtree.git
+
+[submodule "vim-fugitive"]
+    path = .vim/bundle/vim-fugitive
+    url = https://github.com/tpope/vim-fugitive.git
+
+[submodule "vim-repeat"]
+    path = .vim/bundle/vim-repeat
+    url = https://github.com/tpope/vim-repeat.git
+
+[submodule "vim-surround"]
+    path = .vim/bundle/vim-surround
+    url = https://github.com/tpope/vim-surround.git
+
+[submodule "vim-coffee-script"]
+    path = .vim/bundle/vim-coffee-script
+    url = https://github.com/kchmck/vim-coffee-script.git
+
+[submodule ".vim/bundle/ctrlp.vim"]
+	path = .vim/bundle/ctrlp.vim
+	url = git@github.com:kien/ctrlp.vim.git
+[submodule ".vim/bundle/vim-indent-object"]
+	path = .vim/bundle/vim-indent-object
+	url = git@github.com:michaeljsmith/vim-indent-object.git
+[submodule ".vim/bundle/YouCompleteMe"]
+	path = .vim/bundle/YouCompleteMe
+	url = git@github.com:Valloric/YouCompleteMe.git
+[submodule ".vim/bundle/vim-abolish"]
+	path = .vim/bundle/vim-abolish
+	url = git@github.com:tpope/vim-abolish.git
+[submodule ".vim/bundle/syntastic"]
+	path = .vim/bundle/syntastic
+	url = git@github.com:scrooloose/syntastic.git
+[submodule ".vim/bundle/pyflakes-vim"]
+	path = .vim/bundle/pyflakes-vim
+	url = git@github.com:kevinw/pyflakes-vim.git

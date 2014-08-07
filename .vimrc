@@ -159,13 +159,6 @@ set timeoutlen=200
 " Remap leader for make not so much RSI
 let mapleader = ","
 
-" Disable arrow keys
-map <Left> <Nop>
-map <Right> <Nop>
-map <Up> <Nop>
-map <Down> <Nop>
-
-
 "------------------------------------------------------------
 " Misc
 "
